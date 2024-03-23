@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="Login">Login</string>
+    <string name="enter_email">Enter Your Email</string>
+    <string name="enter_pass">Enter Your Password</string>
+    <string name="wl_back">Welcome Back!</string>
+    <string name="signup_description">Already have an account? Login Now</string>
+    <string name="login_description">Create an account? Register</string>
+    <string name="Signup">Signup</string>
+    <string name="enter_name">Enter Your Name</string>
+    <string name="dashboard">DASHBOARD</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="user">User</string>
+    <string name="name">Name</string>
+    <string name="see_history">See History</string>
+    <string name="update">Update</string>
+    <string name="From_Unit">From Unit</string>
+    <string name="To_Unit">To Unit</string>
+    <string name="enter_phone">Enter Your Phone Number</string>
+    <string name="history">History</string>
+    <string name="updateData">Update Data</string>
+    <string name="getStarted">Get Started...</string>
+</resources>
